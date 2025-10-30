@@ -54,16 +54,16 @@ Future Scope
 
 Technical Stack
 
-- Hardware: ESP32, Arduino, PMS5003, MQ135, DHT11/22, GPS Module
+- Hardware: ESP32,  MQ135, DHT11, GPS Module
 
 - Communication: MQTT, HTTP, Wi-Fi, GSM
 
-- Cloud Platforms: ThingsBoard, Blynk, Firebase, AWS IoT
+- Cloud Platforms: ThingsBoard
 
-- Frontend: React.js / Flutter / HTML + Chart.js
+- Frontend: React.js 
 
-- Backend: Node.js / Flask / Firebase Functions
+- Backend: Node.js 
 
-- Database: Firebase Realtime DB / MongoDB / InfluxDB
+- Database: Firebase Realtime DB
 
-- Visualization: Grafana, Chart.js, Google Maps API
+- Visualization: Google Maps API
